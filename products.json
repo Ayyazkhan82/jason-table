@@ -1,0 +1,43 @@
+[
+    {
+        "id" :1,
+        "image":"jason table images/51Ou8xuZGuL._AC_SY780_.jpg",
+        "name": "Black cycle",
+        "price": "200$",
+        "inventory": 4,
+        "productCode": "123"
+    },
+    {
+        "id" :2,
+        "image":"jason table images/61IduqXygwL._AC_UY350_.jfif",
+        "name": "Green cycle",
+        "price": "200$",
+        "inventory": 14,
+        "productCode": "132"
+    },
+    {
+    
+        "id" :3,
+        "image":"jason table images/png-clipart-pocket-watch-chronograph-watch-watch-accessory-accessories (1).jfif",
+        "name": "Red cycle",
+        "price": "200$",
+        "inventory": 12,
+        "productCode": "213"
+    },
+    {
+        "id" :4,
+        "image":"jason table images/png-clipart-pocket-watch-chronograph-watch-watch-accessory-accessories.jfif",
+        "name": "black red",
+        "price": "200$",
+        "inventory": 12,
+        "productCode": "213"
+    },
+    {
+        "id" :5,
+        "image":"jason table images/png-clipart-watches-watches.jfif",
+        "name": "black white",
+        "price": "400$",
+        "inventory": 10,
+        "productCode": "2134"
+    }
+]

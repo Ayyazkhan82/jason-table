@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    min-height: 100vh;
+    color: rgb(253, 3, 3);
+    background-color: rgb(167, 211, 97);
+}
+table{
+    width: 1000px;
+    margin: 30px auto;
+    background-color: rgb(167, 211, 97);
+}
+table th{
+    padding: 10px 0;
+    background-color: #53795e75;
+    border: thin solid #44a87936;
+}
+
+table td{
+    padding: 10px;
+    border: thin solid #d4d4d4;
+    width: 18%;
+    text-align: center;
+    background-color: #fcfcfc;
+}
+table img{
+    width: 70%;
+}
